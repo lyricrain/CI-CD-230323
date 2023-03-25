@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 	@RequestMapping("/")
 	public String home() {
-		return "hello springboot innerpeace aws docker jenkins github build joy good today end";
+		return "hello springboot innerpeace aws docker jenkins github build joy good today end end";
 	}
 }
