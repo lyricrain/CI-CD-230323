@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.kosta</groupId>
-	<artifactId>myproject</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootstudy-innerpeace-ci-cd</name>
+	<artifactId>deepi</artifactId>
+	<version>1.0.0</version>
+	<name>deepi</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
