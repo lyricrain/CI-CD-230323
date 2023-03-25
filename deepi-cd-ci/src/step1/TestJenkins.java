@@ -6,5 +6,6 @@ public class TestJenkins {
 		System.out.println("deepi");
 		System.out.println("joy");
 		System.out.println("innerpeace");
+		System.out.println("thanks");
 	}
 }
