@@ -7,5 +7,6 @@ public class TestJenkins {
 		System.out.println("joy");
 		System.out.println("innerpeace");
 		System.out.println("thanks");
+		System.out.println("ok");
 	}
 }
