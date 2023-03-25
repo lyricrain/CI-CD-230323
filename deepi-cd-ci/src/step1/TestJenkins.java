@@ -8,5 +8,6 @@ public class TestJenkins {
 		System.out.println("innerpeace");
 		System.out.println("thanks");
 		System.out.println("ok");
+		System.out.println("love");
 	}
 }
